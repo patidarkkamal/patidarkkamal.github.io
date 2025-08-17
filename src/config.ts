@@ -26,6 +26,13 @@ export const siteConfig = {
         "Project 2 Description",
       link: "",
       skills: ["Java", "Spring Boot", "Microservices"],
+    },
+    {
+      name: "Project 3",
+      description:
+        "Project 3 Description",
+      link: "",
+      skills: ["Java", "Spring Boot", "Microservices"],
     }
   ],
   experience: [
