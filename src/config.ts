@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Kamal Patidar",
   title: "Senior Consultant",
-  description: "Portfolio website of Kamal Patidar",
+  description: "Quietly building systems that serve.",
   accentColor: "#1d4ed8",
   social: {
     email: "patidar.kamal.88@gmail.com",
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/patidarkkamal",
   },
   aboutMe:
-    "With over a decade of experience in backend development, I specialize in building scalable, high-performance systems using Java, Spring Boot, and microservices architecture. My journey spans diverse domains—from modernizing legacy platforms to designing robust SDK integrations—always with a focus on clean code, system resilience, and stakeholder alignment. I’ve led cross-functional teams, resolved critical defects under pressure, and consistently delivered solutions that balance technical depth with business impact. My exposure to cloud platforms like AWS and GCP complements my backend expertise, enabling seamless deployment and integration. Currently, I’m deepening my mastery of backend technologies while gradually exploring AI integration to stay future-ready. I believe in continuous learning, karma-driven execution, and building systems that serve with clarity and purpose.",
+    "Backend engineer with a decade of experience in scalable systems, cloud integration, and quiet impact. I value clean code, resilient design, and karma-driven execution. Currently deepening backend mastery while exploring AI with patience and purpose.",
   skills: ["Java", "Spring Framework", "Hibernate", "Spring Boot", "Microservices", "Google Cloud Platform (GCP)", "Amazon Web Services (AWS)"],
   projects: [
     {
