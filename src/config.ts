@@ -1,92 +1,112 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Kamal Patidar",
+  title: "Senior Consultant",
+  description: "Portfolio website of Kamal Patidar",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "patidar.kamal.88@gmail.com",
+    linkedin: "https://www.linkedin.com/in/kamal-k-patidar",
+    twitter: "",
+    github: "https://github.com/patidarkkamal",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "With over a decade of experience in backend development, I specialize in building scalable, high-performance systems using Java, Spring Boot, and microservices architecture. My journey spans diverse domains—from modernizing legacy platforms to designing robust SDK integrations—always with a focus on clean code, system resilience, and stakeholder alignment. I’ve led cross-functional teams, resolved critical defects under pressure, and consistently delivered solutions that balance technical depth with business impact. My exposure to cloud platforms like AWS and GCP complements my backend expertise, enabling seamless deployment and integration. Currently, I’m deepening my mastery of backend technologies while gradually exploring AI integration to stay future-ready. I believe in continuous learning, karma-driven execution, and building systems that serve with clarity and purpose.",
+  skills: ["Java", "Spring Framework", "Hibernate", "Spring Boot", "Microservices", "Google Cloud Platform (GCP)", "Amazon Web Services (AWS)"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Project 1",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Project 1 Description",
+      link: "",
+      skills: ["Java", "Spring Boot", "Microservices"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Project 2",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
+        "Project 2 Description",
+      link: "",
+      skills: ["Java", "Spring Boot", "Microservices"],
+    }
   ],
   experience: [
     {
-      company: "Tech Company",
+      company: "Infosys",
+      title: "Senior Consultant",
+      dateRange: "July 2025 - Present",
+      bullets: [
+      ],
+    },
+    {
+      company: "Nixsol India Pvt Ltd.",
+      title: "Technical Lead",
+      dateRange: "July 2024 - July 2025",
+      bullets: [
+      ],
+    },
+    {
+      company: "Globant",
+      title: "Senior Software Engineer/ Software Designer",
+      dateRange: "August 2020 - September 2022",
+      bullets: [
+      ],
+    },
+    {
+      company: "DelphianLogic",
       title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      dateRange: "September 2019 - June 2020",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Rocket Software",
+      title: "Software Engineer II",
+      dateRange: "February 2019 - September 2019",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "GS Lab",
+      title: "Senior Software Engineer",
+      dateRange: "January 2018 - January 2019",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
       ],
     },
+    {
+      company: "BOS Global India",
+      title: "Senior Software Engineer",
+      dateRange: "April 2017 - December 2017",
+      bullets: [
+      ],
+    },
+    {
+      company: "HSBC",
+      title: "Senior Software Engineer",
+      dateRange: "August 2016 - January 2017",
+      bullets: [
+      ],
+    },
+    {
+      company: "Capgemini",
+      title: "Associate Consultant",
+      dateRange: "November 2015 - August 2016",
+      bullets: [
+      ],
+    },
+    {
+      company: "Cades Studec Technologies India",
+      title: "Software Engineer/Team Leader",
+      dateRange: "August 2011 - November 2015",
+      bullets: [
+      ],
+    }
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+      degree: "Master of Computer Applications - MCA",
+      dateRange: "2008 - 2011",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
       ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    }
   ],
 };
