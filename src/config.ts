@@ -102,9 +102,16 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+      school: "Rajiv Gandhi Prodyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh",
       degree: "Master of Computer Applications - MCA",
       dateRange: "2008 - 2011",
+      achievements: [
+      ],
+    },
+    {
+      school: "Madhav Science College, Ujjain, Madhya Pradesh",
+      degree: "B. Sc. Computer Science",
+      dateRange: "2004 - 2007",
       achievements: [
       ],
     }
