@@ -14,25 +14,39 @@ export const siteConfig = {
   skills: ["Java", "Spring Framework", "Hibernate", "Spring Boot", "Microservices", "Google Cloud Platform (GCP)", "Amazon Web Services (AWS)"],
   projects: [
     {
-      name: "Project 1",
+      name: "Content Lifecycle Management Platform",
       description:
-        "Project 1 Description",
+        "Content Lifecycle Management Platform is a modular backend system to manage the full lifecycle of digital learning assets—eLearning, ILT, Video, and Material. The platform enables seamless content delivery, personalization, and reporting across diverse formats.",
       link: "",
-      skills: ["Java", "Spring Boot", "Microservices"],
+      skills: ["Java", "Spring Boot", "Microservices","AWS", "Hibernate", "MySQL"],
     },
     {
-      name: "Project 2",
+      name: "Payments Module – Transfers & Direct Debits",
       description:
-        "Project 2 Description",
+        "A high-throughput payment systems, focusing on Transfers and Direct Debits within a regulated financial domain",
       link: "",
-      skills: ["Java", "Spring Boot", "Microservices"],
+      skills: ["Java", "Spring Boot", "Microservices", "Spring REST", "Lombok", "MapStruct", "Swagger", "Splunk"],
     },
     {
-      name: "Project 3",
+      name: "T24 API Bridge – CARDS Migration",
       description:
-        "Project 3 Description",
+        "Modernized legacy banking workflows by migrating T24 API Bridge logic from JBasic to Java for the CARDS module.",
       link: "",
-      skills: ["Java", "Spring Boot", "Microservices"],
+      skills: ["Java", "Spring", "Lombok", "T24 Cards", "T24 Browser"],
+    },
+    {
+      name: "RSA Identity Governance and Lifecycle",
+      description:
+        "RSA Identity Governance, streamlining enterprise access workflows and enhancing lifecycle automation.",
+      link: "",
+      skills: ["Java", "Mule ESB", "Hibernate", "Oracle", "WildFly"],
+    },
+    {
+      name: "Intelligent Time Management System",
+      description:
+        "A productivity platform that auto-captures user activities, tasks, and communications—streamlining time tracking and workflow visibility.",
+      link: "",
+      skills: ["Java", "Spring Boot", "Spring Integration", "Hibernate", "MySQL"],
     }
   ],
   experience: [
